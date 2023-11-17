@@ -1,6 +1,3 @@
-![m4kktruck-getintoitya](https://user-images.githubusercontent.com/41760076/168429945-2cc38fe1-80f8-48ec-b04d-9d523b2348e9.gif)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadriacibadem&label=Profile%20views&color=0e75b6&style=flat" alt="kadriacibadem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadriacibadem" alt="kadriacibadem" /></a> </p>
